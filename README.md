@@ -1,6 +1,6 @@
 # Desafio de Projeto
 
-Criando um sistema bancário com Python
+Aperfeiçoando o sistema bancário criado no desafio anterior com Python
 
 ## Funcionalidades
     - Cadastro de clientes
